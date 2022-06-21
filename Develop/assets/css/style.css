@@ -38,6 +38,10 @@ header li {
     margin-left: 25px;
 }
 
+header li a:hover{
+    color:#0072bb;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
