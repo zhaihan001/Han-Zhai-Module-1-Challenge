@@ -33,7 +33,7 @@ header div {
 }
 
 
-header div ul li {
+header li {
     display: inline-block;
     margin-left: 25px;
 }
